@@ -2,7 +2,7 @@
   "name": "markdown-previewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Marzdor.github.io/React-markdownPreviewer",
+  "homepage": "https://marzdor.github.io/React-markdownPreviewer/",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",

@@ -13,8 +13,9 @@
   }
   .title {
     width: 100%;
-    margin: 50px 10% 0 10%;
+    margin: 50px 0 0 0;
     text-align: center;
+    border: 2px solid #000;
   }
 
   img {
@@ -40,7 +41,6 @@
   .title {
     width: 60%;
     margin: 50px auto 0 auto;
-    border: 2px solid #000;
   }
 
   img {
