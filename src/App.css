@@ -1,0 +1,11 @@
+#editor {
+  resize: none;
+  height: 250px;
+  width: 60%;
+  margin: 0 20%;
+}
+
+article {
+  margin: 0 auto;
+  width: 60%;
+}
